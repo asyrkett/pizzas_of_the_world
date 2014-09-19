@@ -11,5 +11,10 @@ public class Pizza
     this.price = price;
   }
   
+  public double getPrice()
+  {
+    return price;
+  }
+  
   // TODO: please implement rest tomorrow
 }
